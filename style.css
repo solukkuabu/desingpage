@@ -1,0 +1,92 @@
+nav{
+
+    background-color: black;
+    padding: 30px;
+}
+
+
+h1{
+
+color: white;
+
+}
+
+
+h1,ul,li{
+
+display:inline ;
+
+}
+
+li{
+
+color: white;
+margin-right: 18px;
+color: rgb(139, 139, 139);
+cursor: pointer;
+}
+
+
+ul{
+margin-left: 60%;
+}
+
+
+li:hover{
+
+    color: white;
+    transition: 0,3s;
+}
+
+input{
+
+width:60%;
+padding: 15px;
+
+}
+
+
+.searchbar{
+padding: 50px;
+text-align: center;
+
+
+}
+
+
+
+img{
+
+width:220px;
+}
+
+
+
+.box{
+
+display: inline-block;
+margin-left: 150px;
+}
+
+
+img{
+
+border-radius: 30px;
+
+}
+.about{
+
+    text-align: center;
+    color: black;
+    margin-top: 40px;
+}
+
+
+.contact{
+text-align: center;
+font-weight: bold;
+background-color: black;
+color: white;
+}
+
+
